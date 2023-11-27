@@ -14,19 +14,19 @@ public class Car {
     }
 
     public String getMake() {
-        return make;
+        return this.make;
     }
 
     public String getModel() {
-        return model;
+        return this.model;
     }
 
     public String getColour() {
-        return colour;
+        return this.colour;
     }
 
     public int getYear() {
-        return year;
+        return this.year;
     }
 
     public void setColour(String newColour) {
@@ -35,7 +35,7 @@ public class Car {
 
     public String getDetails() {
         return "This car is " + colour + " " + model + " " + year + " " + make;
-        return details;
+       
     }
 }
 
@@ -45,6 +45,6 @@ public class Car {
 
 
 
-}
+
 
 
