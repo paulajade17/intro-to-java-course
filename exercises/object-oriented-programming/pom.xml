@@ -55,7 +55,6 @@
                     <version>3.11.0</version>
                     <configuration>
                         <testExcludes>
-                            <exclude>**/shapes/PaintTest.java</exclude>
                         </testExcludes>
                     </configuration>
                 </plugin>
