@@ -1,4 +1,4 @@
-package com.cbfacademy.shapes;
+package com.cbfacademy.words;
 import java.lang.CharSequence;
 
 
