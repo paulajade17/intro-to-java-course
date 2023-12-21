@@ -13,7 +13,6 @@ For the exercises below, we've provided the starter project above.
 ## :pushpin: Exceptions
 
 ### Question 1
-
 Is the following code legal?
 
 ```java
